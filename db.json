@@ -2,36 +2,36 @@
   "ddr": [
     {
       "Country": "Benin",
-      "Total duration Orange": "0.30",
+      "Total duration Orange": "10.30",
       "Total duration Nokia": "0.27",
-      "Dur Diff": 0.03,
+      "Dur Diff": 10.03,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
     },
     {
       "Country": "Papua New Guinea",
-      "Total duration Orange": "22.00",
+      "Total duration Orange": "222.00",
       "Total duration Nokia": "20.55",
-      "Dur Diff": 1.45,
+      "Dur Diff": 51.45,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
     },
     {
       "Country": "Angola",
-      "Total duration Orange": "4.95",
+      "Total duration Orange": "54.95",
       "Total duration Nokia": "4.94",
-      "Dur Diff": 0.01,
+      "Dur Diff": 60.01,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
     },
     {
       "Country": "Cambodia",
-      "Total duration Orange": "3,623.38",
+      "Total duration Orange": "63,623.38",
       "Total duration Nokia": "3,415.44",
-      "Dur Diff": 207.94,
+      "Dur Diff": 2037.94,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
@@ -40,7 +40,7 @@
       "Country": "Kazakhstan",
       "Total duration Orange": "16.68",
       "Total duration Nokia": "16.42",
-      "Dur Diff": 0.26,
+      "Dur Diff": 66.26,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
@@ -49,7 +49,7 @@
       "Country": "Paraguay",
       "Total duration Orange": "1.02",
       "Total duration Nokia": "1.00",
-      "Dur Diff": 0.02,
+      "Dur Diff": 630.02,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
@@ -58,7 +58,7 @@
       "Country": "Portugal",
       "Total duration Orange": "3.27",
       "Total duration Nokia": "2.95",
-      "Dur Diff": 0.32,
+      "Dur Diff": 6340.32,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
@@ -67,7 +67,7 @@
       "Country": "Sudan South",
       "Total duration Orange": "1.17",
       "Total duration Nokia": "1.14",
-      "Dur Diff": 0.03,
+      "Dur Diff": 340.03,
       "Count Orange": 0,
       "Count Nokia": 0,
       "Count Diff": 0
