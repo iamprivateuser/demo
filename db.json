@@ -1,6 +1,5 @@
-[
- "ddr":[
- 
+{
+ "ddr": [
   {
    "Country": "Benin",
    "Total duration Orange": "0.30",
@@ -73,7 +72,5 @@
    "Count Nokia": 0,
    "Count Diff": 0
  }
- 
  ]
-
-]
+}
