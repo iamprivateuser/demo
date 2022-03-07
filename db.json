@@ -43,32 +43,6 @@
    "Count Orange": 0,
    "Count Nokia": 0,
    "Count Diff": 0
- },
- {
-   "Country": "Paraguay",
-   "Total duration Orange": "1.02",
-   "Total duration Nokia": "1.00",
-   "Dur Diff": 0.02,
-   "Count Orange": 0,
-   "Count Nokia": 0,
-   "Count Diff": 0
- },
- {
-   "Country": "Portugal",
-   "Total duration Orange": "3.27",
-   "Total duration Nokia": "2.95",
-   "Dur Diff": 0.32,
-   "Count Orange": 0,
-   "Count Nokia": 0,
-   "Count Diff": 0
- },
- {
-   "Country": "Sudan South",
-   "Total duration Orange": "1.17",
-   "Total duration Nokia": "1.14",
-   "Dur Diff": 0.03,
-   "Count Orange": 0,
-   "Count Nokia": 0,
-   "Count Diff": 0
  }
+
 ]
