@@ -1,6 +1,7 @@
 {
   "ddr": [
     {
+      "Date": "Janruary",
       "Country": "Benin",
       "Total duration Orange": "10.30",
       "Total duration Nokia": "0.27",
@@ -10,6 +11,7 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Papua New Guinea",
       "Total duration Orange": "222.00",
       "Total duration Nokia": "20.55",
@@ -19,6 +21,7 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Angola",
       "Total duration Orange": "54.95",
       "Total duration Nokia": "4.94",
@@ -28,6 +31,7 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Cambodia",
       "Total duration Orange": "63,623.38",
       "Total duration Nokia": "3,415.44",
@@ -37,6 +41,7 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Kazakhstan",
       "Total duration Orange": "16.68",
       "Total duration Nokia": "16.42",
@@ -46,6 +51,7 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Paraguay",
       "Total duration Orange": "1.02",
       "Total duration Nokia": "1.00",
@@ -55,6 +61,7 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Portugal",
       "Total duration Orange": "3.27",
       "Total duration Nokia": "2.95",
@@ -64,9 +71,170 @@
       "Count Diff": 0
     },
     {
+      "Date": "Janruary",
       "Country": "Sudan South",
       "Total duration Orange": "1.17",
       "Total duration Nokia": "1.14",
+      "Dur Diff": 340.03,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+      {
+      "Date": "February",
+      "Country": "Benin",
+      "Total duration Orange": "10.30",
+      "Total duration Nokia": "0.27",
+      "Dur Diff": 10.03,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Papua New Guinea",
+      "Total duration Orange": "222.00",
+      "Total duration Nokia": "20.55",
+      "Dur Diff": 51.45,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Angola",
+      "Total duration Orange": "54.95",
+      "Total duration Nokia": "4.94",
+      "Dur Diff": 60.01,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Cambodia",
+      "Total duration Orange": "63,623.38",
+      "Total duration Nokia": "3,415.44",
+      "Dur Diff": 2037.94,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Kazakhstan",
+      "Total duration Orange": "16.68",
+      "Total duration Nokia": "16.42",
+      "Dur Diff": 66.26,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Paraguay",
+      "Total duration Orange": "1.02",
+      "Total duration Nokia": "1.00",
+      "Dur Diff": 630.02,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Portugal",
+      "Total duration Orange": "3.27",
+      "Total duration Nokia": "2.95",
+      "Dur Diff": 6340.32,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "February",
+      "Country": "Sudan South",
+      "Total duration Orange": "1.17",
+      "Total duration Nokia": "1.14",
+      "Dur Diff": 340.03,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+      {
+      "Date": "March",
+      "Country": "Benin",
+      "Total duration Orange": "10.30",
+      "Total duration Nokia": "0.27",
+      "Dur Diff": 10.03,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Papua New Guinea",
+      "Total duration Orange": "222.00",
+      "Total duration Nokia": "20.55",
+      "Dur Diff": 51.45,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Angola",
+      "Total duration Orange": "54.95",
+      "Total duration Nokia": "4.94",
+      "Dur Diff": 60.01,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Cambodia",
+      "Total duration Orange": "63,623.38",
+      "Total duration Nokia": "3,415.44",
+      "Dur Diff": 2037.94,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Kazakhstan",
+      "Total duration Orange": "16.68",
+      "Total duration Nokia": "16.42",
+      "Dur Diff": 66.26,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Paraguay",
+      "Total duration Orange": "1.02",
+      "Total duration Nokia": "1.00",
+      "Dur Diff": 630.02,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Portugal",
+      "Total duration Orange": "3.27",
+      "Total duration Nokia": "2.95",
+      "Dur Diff": 6340.32,
+      "Count Orange": 0,
+      "Count Nokia": 0,
+      "Count Diff": 0
+    },
+    {
+      "Date": "March",
+      "Country": "Sudan South",
+      "Total duration Orange": "111.17",
+      "Total duration Nokia": "111.14",
       "Dur Diff": 340.03,
       "Count Orange": 0,
       "Count Nokia": 0,
